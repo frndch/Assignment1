@@ -1,0 +1,86 @@
+{
+    "count": 9,
+    "entries": [
+        {
+            "API": "Abstract Public Holidays",
+            "Description": "Data on national, regional, and religious holidays via API",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://www.abstractapi.com/holidays-api",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Calendarific",
+            "Description": "Worldwide Holidays",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://calendarific.com/",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Checkiday - National Holiday API",
+            "Description": "Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://apilayer.com/marketplace/checkiday-api",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Festivo Public Holidays",
+            "Description": "Fastest and most advanced public holiday and observance service on the market",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://docs.getfestivo.com/docs/products/public-holidays-api/intro",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Hebrew Calendar",
+            "Description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
+            "Auth": "",
+            "HTTPS": false,
+            "Cors": "unknown",
+            "Link": "https://www.hebcal.com/home/developer-apis",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Holidays",
+            "Description": "Historical data regarding holidays",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://holidayapi.com/",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Nager.Date",
+            "Description": "Public holidays for more than 90 countries",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "no",
+            "Link": "https://date.nager.at",
+            "Category": "Calendar"
+        },
+        {
+            "API": "Russian Calendar",
+            "Description": "Check if a date is a Russian holiday or not",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "no",
+            "Link": "https://github.com/egno/work-calendar",
+            "Category": "Calendar"
+        },
+        {
+            "API": "UK Bank Holidays",
+            "Description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://www.gov.uk/bank-holidays.json",
+            "Category": "Calendar"
+        }
+    ]
+}
