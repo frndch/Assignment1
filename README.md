@@ -1,6 +1,10 @@
-# Assignment1
+# Assignment 1
 Front End Automation Tests Using Cypress
 Can be found inside cypressjavascript/cypress/e2e/3-test-cases/assignment1.spec.cy.js
+
+
+# Assignment 2
+Back End Automation Tests usin POSTMAN and Mocha
 
 
 # Assignment 3
